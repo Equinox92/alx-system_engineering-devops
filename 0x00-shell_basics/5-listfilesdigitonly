@@ -1,2 +1,2 @@
 #!/bin/bash
-ls [:12345:]*
+ls -al
