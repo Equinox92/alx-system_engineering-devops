@@ -1,0 +1,2 @@
+#!/bin/bash
+chown -hR vincent:staff .. -change_owner_and_group
